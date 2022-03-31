@@ -1,4 +1,13 @@
-### Hi there 👋
+<img align="left" height="200" src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif"/>
+
+```diff
+hi, im aish 👦🏾.
+
+@@embedded software engineer.@@
++ living in melbourne, australia.
+- building medical devices.
+! computer science 🎓.
+```
 
 <!--
 **aishsingh/aishsingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
