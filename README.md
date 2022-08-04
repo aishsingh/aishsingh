@@ -5,7 +5,7 @@ hi, im aish 👦🏾.
 
 @@embedded software engineer.@@
 + living in melbourne, australia.
-- building medical devices.
+- building safety critical devices.
 ! computer science 🎓.
 ```
 
